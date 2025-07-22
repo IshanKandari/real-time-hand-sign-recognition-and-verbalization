@@ -1,4 +1,3 @@
-![Project Banner](banner.png)
 # 🤟 Real-Time Hand Sign Recognition and Verbalization
 
 This project enables real-time recognition of hand signs and converts them into speech and on-screen text, helping muted individuals communicate more effectively. It uses MediaPipe for extracting 3D hand landmarks, and a Random Forest classifier for gesture prediction.
