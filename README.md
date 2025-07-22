@@ -44,6 +44,3 @@ This project enables real-time recognition of hand signs and converts them into 
 ## 🎯 Tips
 - Collect at least 30 samples per gesture for better results
 - Perform the gesture clearly with one hand in front of webcam
-
-## 🙏 Credits
-Built using MediaPipe, GTTS, and Scikit-learn
